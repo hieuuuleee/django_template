@@ -24,3 +24,4 @@ Open Docker Desktop from your applications or system tray (if available). On Win
 docker-compose -f <yaml_file_name> up
 ```
 
+![wall picture](https://www.wallpaperbetter.com/en/hd-wallpaper-cfzzz/download/1920x1080)
